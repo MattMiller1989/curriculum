@@ -425,4 +425,5 @@ Send us your solution so we can show others! Submit a link to the Github repo wi
 * [Sanyogita's Solution](https://github.com/SanyogitaPandit/RubyProgramming/tree/master/knight_moves)
 * [Timework's Solution](https://github.com/Timework/knight/blob/master/knight.rb)
 * [Rob Dulabon's Solution](https://github.com/RDulabon/Knight_Travails) 
+* [Matt M's Solution](https://github.com/MattMiller1989/Knight-s-Travails) 
 </details>
