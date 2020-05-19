@@ -484,7 +484,7 @@ Submit a link below to this [file](https://github.com/TheOdinProject/curriculum/
 * [tomstrat's Solution](https://github.com/tomstrat/ruby_blogger) - [View in Browser](https://dry-peak-20557.herokuapp.com/)
 * [Robert Suazo's Solution](https://github.com/rsuazo/blogger) - [View in Browser](https://vast-bastion-98472.herokuapp.com/)
 * [Bendee's Solution](https://github.com/bendee48/rails-blog) - [View in Browser](https://still-citadel-27600.herokuapp.com/articles)
-</details>
+* [Matt M's Solution](https://github.com/MattMiller1989/Blog-App)
 
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
